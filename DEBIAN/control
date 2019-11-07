@@ -1,0 +1,11 @@
+Package: gect-beta
+Version: 0.9.3.BETA
+Architecture: all
+Maintainer: MINEMAM <coqecoisa@gmail.com>
+Installed-Size: 321
+Depends: adb , ffmpeg , zenity , mkvtoolnix
+Recommends:
+Homepage: https:minemam-br.blogspot.com.br
+Priority: optional
+Section: utils
+Description: grave a tela do seu smartphone
